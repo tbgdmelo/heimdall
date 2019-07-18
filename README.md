@@ -1,1 +1,1 @@
-Sistema para controle de sáidas de equipamentos de empresas
+Sistema para controle de saída de equipamentos de empresas

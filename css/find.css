@@ -1,0 +1,15 @@
+#box-equipamento{
+    float:left;
+}
+
+#box-funcionario {
+    position: relative;
+    left: 650px;
+    top: -300px;
+}
+
+#foto-fun{
+    position: relative;
+    left: 950px;
+    top: -550px;
+}
